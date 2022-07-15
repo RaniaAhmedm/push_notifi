@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117180779792",
+    "project_id": "push-notifi-bloc",
+    "storage_bucket": "push-notifi-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117180779792:android:98bab420292a62edaa6995",
+        "android_client_info": {
+          "package_name": "com.example.push_notifi_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117180779792-4olf7m6bbi8ebg30ec0h489l21984srf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACz1UrpwBScgWtgFGCxHDJ4OpTdEmdLCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117180779792-4olf7m6bbi8ebg30ec0h489l21984srf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
